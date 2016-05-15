@@ -1,3 +1,3 @@
 # hello-world
 
-i'm writinga bit about myself :)
+i'm writing a bit about myself :)
